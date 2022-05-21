@@ -11,3 +11,5 @@ admin
 
 Disk01
 UUID=74551BF065483787 /media/disk01 auto defaults,uid=33,gid=33 0 2
+
+https://download.nextcloud.com/server/releases/latest.zip
