@@ -1,6 +1,7 @@
 # https://phoenixnap.com/kb/linux-format-disk
 
 # https://wiredzero.com/tutorials/how-to-install-nextcloud-on-a-raspberry-pi-and-add-external-storage-and-secure-with-ssl
+# https://wiredzero.com/tutorials/how-to-install-nextcloud-on-a-raspberry-pi-and-add-external-storage-and-secure-with-ssl
 
 https://www.youtube.com/watch?v=yJBM9of4KBQ
 
