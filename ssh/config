@@ -1,0 +1,24 @@
+Host virtual-machine-1
+  HostName 150.136.63.19
+  IdentityFile /home/pi/.ssh/virtual-machine-1/ssh-key-2022-05-21.key
+  User ubuntu
+
+Host virtual-machine-2
+  HostName 132.145.160.78
+  IdentityFile /home/pi/.ssh/virtual-machine-2/ssh-key-2021-12-31.key
+  User ubuntu
+
+Host virtual-machine-3
+  HostName 129.213.128.128
+  IdentityFile /home/pi/.ssh/virtual-machine-3/ssh-key-2022-01-09.key
+  User ubuntu
+
+Host movie-station-1
+  HostName 129.153.142.13
+  IdentityFile /home/pi/.ssh/movie-station-1/ssh-key-2022-02-14.key
+  User ubuntu
+
+Host movie-station-2
+  HostName 132.226.63.35
+  IdentityFile /home/pi/.ssh/movie-station-2/ssh-key-2022-02-15.key
+  User ubuntu
