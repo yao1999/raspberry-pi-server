@@ -10,7 +10,11 @@ admin
 &9a9s9d9A
 
 
-Disk01
-UUID=74551BF065483787 /media/disk01 auto defaults,uid=33,gid=33 0 2
+disk01 500gb ssd
+UUID=9228E73028E71251 /media/disk01 auto defaults,uid=33,gid=33 0 2
+
+disk02 670gb HDD
+UUID=C440FE7640FE6E94 /media/disk02 auto defaults,uid=33,gid=33 0 2
+
 
 https://download.nextcloud.com/server/releases/latest.zip
