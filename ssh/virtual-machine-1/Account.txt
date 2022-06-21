@@ -1,3 +1,0 @@
-tenancy: johnsons4579
-username: johnsons4579@gmail.com
-password: &9a9s9d9A

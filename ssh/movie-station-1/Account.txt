@@ -1,3 +1,0 @@
-tenancy: zefengyao69
-username: zefeng.yao@gmail.com
-password: &9a9s9d9A
