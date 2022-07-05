@@ -17,7 +17,7 @@ then
     fi
 elif [ $MS_number -eq 2 ]
 then
-    rsync -rvcn movie-station-$MS_number:/home/ubuntu/download/* /media/disk01 | grep -v '/$'
+    rsync -avcn movie-station-$MS_number:/home/ubuntu/download/* /media/disk01 | grep -v '/$'
     read -p 'download from movie-station-$MS_number? (y/n)' user_choise
     if [ $user_choise = "y" ]
     then
@@ -31,4 +31,4 @@ fi
 
 
 echo "All file in Movie"
-ls /media/disk01/Movie
+ls /media/disk01
